@@ -46,4 +46,21 @@ Número | Nome | Nota
 2 | José | 8.0
 3 | Maria | 10
 
-Terminou a tabela
+#### Comandos
+
+Não entendo muito bem para que serve o comando `document.getElementByld()` da linguagem JavaScript
+
+Olha meu programa em Python 
+```
+num = int(input('Digite um valor:')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+```
+
+##### Emojis
+
+Olá, mundo!! 😅 😊
+
+
